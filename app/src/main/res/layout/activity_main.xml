@@ -11,10 +11,20 @@
         android:id="@+id/Congratulations"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Congratulations on 210 Ilvl!" />
+        android:textSize="36sp"
+        android:padding="20dp"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
+        android:text="You got 210 ilvl?" />
     <TextView
         android:id="@+id/From"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:padding="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
         android:text="From: Lichmaster" />
 </RelativeLayout>
