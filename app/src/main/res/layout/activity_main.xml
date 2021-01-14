@@ -11,5 +11,10 @@
         android:id="@+id/Congratulations"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Congratulations on 210 Ilvl!" />
+    <TextView
+        android:id="@+id/From"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="From: Lichmaster" />
 </RelativeLayout>
